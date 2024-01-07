@@ -41,8 +41,8 @@
  * name and version of this package
  */
 
-static char packageName[] = "parser";
-static char packageVersion[] = "1.4";
+static char packageName[] = PACKAGE_NAME;
+static char packageVersion[] = PACKAGE_VERSION;
 
 /*
  * Declarations for functions defined in this file.
